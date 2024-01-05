@@ -10,6 +10,8 @@
     <!-- Beans Definitions below -->
     <!--Marriot Bean -->
     <bean id="marriot" class="com.dgmf.fundamentals.springiocxml.impl.Marriot">
-
+    </bean>
+    <!--Hilton Bean -->
+    <bean id="hilton" class="com.dgmf.fundamentals.springiocxml.impl.Hilton">
     </bean>
 </beans>
